@@ -1,2 +1,2 @@
 # django_dev
-My developmennt environment for django projects
+My development environment for django projects
